@@ -1,2 +1,2 @@
 # dijkstra
-Dijkstra's algorith
+Dijkstra's algorithm
